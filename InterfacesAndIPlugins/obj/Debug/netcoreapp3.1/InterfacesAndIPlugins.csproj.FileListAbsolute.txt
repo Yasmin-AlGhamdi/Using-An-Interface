@@ -1,0 +1,13 @@
+C:\Users\Yasmin\source\repos\InterfacesAndIPlugins\InterfacesAndIPlugins\bin\Debug\netcoreapp3.1\InterfacesAndIPlugins.exe
+C:\Users\Yasmin\source\repos\InterfacesAndIPlugins\InterfacesAndIPlugins\bin\Debug\netcoreapp3.1\InterfacesAndIPlugins.deps.json
+C:\Users\Yasmin\source\repos\InterfacesAndIPlugins\InterfacesAndIPlugins\bin\Debug\netcoreapp3.1\InterfacesAndIPlugins.runtimeconfig.json
+C:\Users\Yasmin\source\repos\InterfacesAndIPlugins\InterfacesAndIPlugins\bin\Debug\netcoreapp3.1\InterfacesAndIPlugins.runtimeconfig.dev.json
+C:\Users\Yasmin\source\repos\InterfacesAndIPlugins\InterfacesAndIPlugins\bin\Debug\netcoreapp3.1\InterfacesAndIPlugins.dll
+C:\Users\Yasmin\source\repos\InterfacesAndIPlugins\InterfacesAndIPlugins\bin\Debug\netcoreapp3.1\InterfacesAndIPlugins.pdb
+C:\Users\Yasmin\source\repos\InterfacesAndIPlugins\InterfacesAndIPlugins\obj\Debug\netcoreapp3.1\InterfacesAndIPlugins.csprojAssemblyReference.cache
+C:\Users\Yasmin\source\repos\InterfacesAndIPlugins\InterfacesAndIPlugins\obj\Debug\netcoreapp3.1\InterfacesAndIPlugins.AssemblyInfoInputs.cache
+C:\Users\Yasmin\source\repos\InterfacesAndIPlugins\InterfacesAndIPlugins\obj\Debug\netcoreapp3.1\InterfacesAndIPlugins.AssemblyInfo.cs
+C:\Users\Yasmin\source\repos\InterfacesAndIPlugins\InterfacesAndIPlugins\obj\Debug\netcoreapp3.1\InterfacesAndIPlugins.csproj.CoreCompileInputs.cache
+C:\Users\Yasmin\source\repos\InterfacesAndIPlugins\InterfacesAndIPlugins\obj\Debug\netcoreapp3.1\InterfacesAndIPlugins.dll
+C:\Users\Yasmin\source\repos\InterfacesAndIPlugins\InterfacesAndIPlugins\obj\Debug\netcoreapp3.1\InterfacesAndIPlugins.pdb
+C:\Users\Yasmin\source\repos\InterfacesAndIPlugins\InterfacesAndIPlugins\obj\Debug\netcoreapp3.1\InterfacesAndIPlugins.genruntimeconfig.cache
